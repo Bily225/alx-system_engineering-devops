@@ -1,3 +1,4 @@
 #!/bin/bash
 chmod u+x , g+x , o+r hello
 chmod  +114 hello
+chmod ug+x,o+r hello
